@@ -1,0 +1,1 @@
+# Verifica_Simetria_Matriz
